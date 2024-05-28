@@ -1,10 +1,8 @@
-# matematik_operator.py
-# tam sayı bölme öperatörü //
-# print(356//16)
-# print(356/16)
+# tam sayi bulma //
+# print (256//15)
 
-# kalani bulma (%)
+# kalanı bulma operatoru(%)
 # print(13%4)
 
-# üst bulma  operatörü (**)
-print :( 4**4)
+# üst bulma **
+# print(4**3)
